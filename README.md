@@ -1,4 +1,4 @@
-## Thanks for your interest in Keynote KF Tech Doc.
+### Thanks for your interest in Keynote KF Tech Doc.
 
 <p align="center">
 <img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen1.jpg">
@@ -7,7 +7,7 @@
 
 
 
-## KeyNote NF
+## KeyNote NF Tech Doc
 
 Tabbed notebook with RichText editor, multi-level notes and templates for software(hardware) professional tech doc. 
 
