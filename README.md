@@ -1,4 +1,4 @@
-<p align="right"><sup>Thanks for your ineterest in Keynote KF Tech Doc. </a></sup></p>
+<p align="left"><sup>Thanks for your interest in Keynote KF Tech Doc. </a></sup></p>
 
 <p align="center">
 <img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen1.jpg">
@@ -22,5 +22,5 @@ Code released under the [Mozilla Public License 2.0](./LICENSE.txt). This licens
 Note: KeyNote was originally licensed by MPL 1.1. I have contacted with Marek and have obtained his approval to update to MPL 2.0.
 
 
-<img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/Screen1.jpg](https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen2.jpg">
+<img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen2.jpg">
 
