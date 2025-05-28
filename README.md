@@ -1,9 +1,8 @@
 <p align="right"><sup>Thanks for your ineterest in Keynote KF Tech Doc. </a></sup></p>
 
 <p align="center">
-<img width="650" src="https://github.com/dpradov/keynote-nf/blob/master/doc/Images/Img1.png">
+<img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/Screen1.jpg">
 <br/>
-<sup><a href = "https://raw.githubusercontent.com/dpradov/keynote-nf/master/doc/Help/KeyNoteNF%20Help.pdf">KeyNoteNF Help.pdf</a></sup>	
 <p/>
 
 
