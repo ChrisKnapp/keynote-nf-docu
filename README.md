@@ -7,7 +7,7 @@
 
 
 
-## KeyNote NF Tech Doc
+## KeyNote NF for Tech Doc
 
 Tabbed notebook with RichText editor, multi-level notes and templates for software(hardware) professional tech doc. 
 
@@ -26,3 +26,7 @@ Note: KeyNote was originally licensed by MPL 1.1, approval to update to MPL 2.0 
 
 <img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen2.jpg">
 
+Further changes:
+-help added
+-plugins changed (compile version)
+-callout editor (in work) 
