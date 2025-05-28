@@ -1,7 +1,7 @@
 <p align="right"><sup>Thanks for your ineterest in Keynote KF Tech Doc. </a></sup></p>
 
 <p align="center">
-<img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/Screen1.jpg">
+<img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen1.jpg">
 <br/>
 <p/>
 
@@ -20,4 +20,7 @@ In august 2023, with the version 1.8.0, the code was migrated from Borland Delph
 
 Code released under the [Mozilla Public License 2.0](./LICENSE.txt). This license applies only to units written by the authors of KeyNote and KeyNote NF: Marek Jedlinski and Daniel Prado, respectively.
 Note: KeyNote was originally licensed by MPL 1.1. I have contacted with Marek and have obtained his approval to update to MPL 2.0.
+
+
+<img width="650" src="https://github.com/ChrisKnapp/keynote-nf-docu/Screen1.jpg](https://github.com/ChrisKnapp/keynote-nf-docu/blob/master/Screen2.jpg">
 
