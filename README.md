@@ -9,7 +9,7 @@
 
 ## KeyNote NF for Tech Doc
 
-Tabbed notebook with RichText editor, multi-level notes and templates for software(hardware) professional tech doc. 
+Tabbed notebook with RichText editor, multi-level notes and templates for professional software/hardware  tech doc. 
 
 
 ### Copyright and license
